@@ -1,6 +1,7 @@
 # MUI Template
 Este trabalho foi feito utilizando Vite e o template de Blog proporcionado pelo MaterialUI
-
+- [Gabriel Bussad](https://github.com/gbussad)
+- [Joao Cicero](https://github.com/jvcmtr)
 ## Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
